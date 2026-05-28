@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './ong-conselho-fiscal';
+import App from './ong-conselho-fiscal.tsx';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
